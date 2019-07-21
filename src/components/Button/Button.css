@@ -1,0 +1,26 @@
+.Button{
+    background-color: transparent;
+    border:solid 2px black;
+    color:white;
+    outline:none;
+    cursor:pointer;
+    font:inherit;
+    padding:10px;
+    margin:10px;
+    font-weight: block;
+    border-radius: 5px;
+    
+}
+.Button:hover{
+    color:white;
+    background-color: blue;
+
+}
+.Quotes {
+    float:right;
+    color:blue;
+}
+.Twitter{
+    float: left;
+     color:crimson;
+}

@@ -1,0 +1,35 @@
+.Quotebox
+{
+    border-radius:3px;
+    width:450px;
+    padding:40px 50px;
+    display: table;
+    background-color: aliceblue;
+}
+.Twitter{
+    float: left;
+    background-color: transparent;
+    border:solid 2px black;
+    color:blue;
+    outline:none;
+    cursor:pointer;
+    font:inherit;
+    padding:10px;
+    margin:10px;
+    font-weight: block;
+    border-radius: 5px;
+}
+.Tumblr
+{
+    float:left;
+    background-color: transparent;
+    border:solid 2px black;
+    color:blue;
+    outline:none;
+    cursor:pointer;
+    font:inherit;
+    padding:10px;
+    margin:10px;
+    font-weight: block;
+    border-radius: 5px;
+}
